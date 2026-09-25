@@ -1,8 +1,5 @@
 # [D-CLOT: Double Closed Loop Optimal Transport for Unsupervised Action Segmentation](https://arxiv.org/abs/2608.05877)
 
-**Elena Bueno-Benito, Mariella Dimiccoli**
-Institut de Robòtica i Informàtica Industrial, CSIC-UPC, Barcelona, Spain
-
 > 🚧 **Code coming soon.** This repository will host the official PyTorch implementation of D-CLOT.
 
 ## Overview
